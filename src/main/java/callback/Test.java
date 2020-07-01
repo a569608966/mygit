@@ -6,6 +6,6 @@ public class Test {
         MyMaster myMaster = new MyMaster();
         myMaster.sendMessage("给我去买饭");
 
-        System.out.println("revert test");
+        System.out.println("commit test");
     }
 }
