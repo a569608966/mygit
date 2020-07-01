@@ -5,5 +5,7 @@ public class Test {
         System.out.println("启动");
         MyMaster myMaster = new MyMaster();
         myMaster.sendMessage("给我去买饭");
+
+        System.out.println("commit test");
     }
 }
