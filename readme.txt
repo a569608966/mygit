@@ -1,6 +1,3 @@
-Git is a distributed version control system.
-Git is free software.
-I am working.
-I am from dev.
-I am from master.
-Change from dev.
+read me
+read me
+read me
